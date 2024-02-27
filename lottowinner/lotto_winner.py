@@ -1,6 +1,8 @@
 import random
 import os
 
+# THIS IS JUST A SIMPLE GAME
+
 count_games = 0 # this is the counter of games per option game
 opt = 0 # it is the number of the game I choose to play
 max_number = 0 # it is the biggest number in the game
